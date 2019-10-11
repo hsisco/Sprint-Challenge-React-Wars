@@ -45,7 +45,7 @@ font-family: 'Cantarell', sans-serif;
 color: white;
 text-align: left;
 `;
-const Enjoy = styled.span`
+const Enjoy = styled.h2`
 font-family: 'Cantarell', sans-serif;
 color: white;
 text-align: center;
